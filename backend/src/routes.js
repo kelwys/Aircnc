@@ -9,6 +9,7 @@ const routes = express.Router();
 const upload = multer(UploadConfig);
 
 routes.post('/session', SessionControler.store);
+routes.get('/spots', SpotController.index);
 routes.post('/spots', upload.single('thumbnail'), SpotController.store);
 
 module.exports = routes;
