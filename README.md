@@ -1,5 +1,5 @@
 <p align="center">
-  [![Build Status](https://travis-ci.org/kelwys/Aircnc.svg?branch=master)](https://travis-ci.org/kelwys/Aircnc)
+  <img alt="Build" src="https://travis-ci.org/kelwys/Aircnc.svg?branch=master">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kelwys/aircnc">
 
   <img alt="License" src="https://img.shields.io/github/license/kelwys/aircnc">
