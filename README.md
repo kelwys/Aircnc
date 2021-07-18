@@ -1,3 +1,10 @@
+<p align="center">
+  <img alt="Build" src="https://travis-ci.org/kelwys/Aircnc.svg?branch=master">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kelwys/aircnc">
+
+  <img alt="License" src="https://img.shields.io/github/license/kelwys/aircnc">
+</p>
+
 ## 💻 Projeto
 
 O intuito deste projeto é aplicar de forma pratica e continua as melhores tecnologias que envolvem o mundo do desenvolvimento web ultimamente.
